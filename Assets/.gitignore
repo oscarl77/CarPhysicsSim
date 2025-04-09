@@ -1,0 +1,19 @@
+# Ignore the following Unity-generated files and directories
+Library/
+Temp/
+UserSettings/
+ProjectSettings/
+Logs/
+Packages/
+Assets/CarAssets/
+Assets/Scenes/
+Assets/Settings/
+Assets/TutorialInfo/
+
+.DS_Store            
+
+*.log
+*.stackdump
+
+*.user
+*.userprefs
